@@ -1186,8 +1186,11 @@
     "msg": "fund name"
   },
   "OBJECT_CLOSED_FOR_DONATIONS": {
-    "where": "",
     "msg": "Object closed for donations"
+  },
+
+  "ASKED_AMOUNT_REACHED": {
+    "msg": "Asked amount reached"
   },
   "file23": "statistics.js",
 
